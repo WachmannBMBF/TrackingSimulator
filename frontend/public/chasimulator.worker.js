@@ -1,0 +1,1 @@
+../../library/build_wasm/chasimulator.worker.js
